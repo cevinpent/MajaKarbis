@@ -14,4 +14,4 @@ Lisasime ventilaatori ja tegime muudatusi ka koodis.
 
 28.05.2019
 
-Viimased muudatused ja viimistlused töös ja dokumentatsioon.
+Viimased muudatused ja viimistlused töös ja dokumentatsioon, lisasime led ekraani.
